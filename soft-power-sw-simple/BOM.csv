@@ -1,0 +1,9 @@
+Reference, Value, Footprint, Manufacturer_Name, Manufacturer_Part_Number, Mouser Part Number
+C1,1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,
+J1,PWR,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,
+J2,SWITCH,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,
+J3,LOAD,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,
+Q1,IRF7319TRPBF,SOIC127P600X175-8N,Infineon,IRF7319TRPBF,942-IRF7319TRPBF
+R1,10k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,
+R2,100k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,
+R3,10k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,
