@@ -4,7 +4,7 @@ A circuit for providing a power switch that latches, utilizing a momentary push 
 ![pic](pic.jpg)
 
 ## Intro
-This is a simple soft power switch that latches, using a momentary push button. It is found in many different devices from kids toys to consumer power supplies. I took apart an old electronic basketball hoop toy of my son's to reverse engineer the power switch circuit. This is circuit is cheap and simple, costing less than a bottle of Coke. From the datasheet, it can handle 5-18VDC with approximately 4 amps of current. This is a neat design to use in small projects where you want a momentary push button for powering on and off your device. This does not do voltage step-up/step-down. What you feed into the power header is what comes out on the load side.
+This is a simple soft power switch that latches, using a momentary push button. It is found in many different devices from kids toys to consumer power supplies. I took apart an old electronic basketball hoop toy of my son's to reverse engineer the power switch circuit. This circuit is cheap and simple, costing less than a bottle of Coke. From the datasheet, it can handle 5-18VDC with approximately 4 amps of current. This is a neat design to use in small projects where you want a momentary push button for powering on and off your device. This does not do voltage step-up/step-down. What you feed into the power header is what comes out on the load side.
 
 ## Assembly / Install
 * If used, the provided circuit board can be ordered from a PCB fabricator of your choice. (JLCPCB, PCBway, OSH Park, etc.)
