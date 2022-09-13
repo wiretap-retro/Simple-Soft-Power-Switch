@@ -16,7 +16,7 @@ This is a simple soft power switch that latches, using a momentary push button. 
 * Hook up the device you want to power to the LOAD header.
 * Press the momentary button once and your device turns on. Press it again and the device turns off.
 
-## Note
+## Important Note
 With the provided PCB design with the small pin headers, use only low power IoT type devices. Don't melt your wiring and start a fire. This circuit is more intended to be used as an integration into other projects where you need a switched load.
 
 ## Misc
